@@ -4,6 +4,7 @@ Software engineer with a B.S. in **Computer Sciences** and **Data Science** from
 
 - 💼 Software Engineering Intern at **Walmart Global Tech** (Summer 2025): config-driven email templates for Marketplace sellers (60k+ weekly recipients) and a Spring Boot chatbot for seller data
 - 🧑‍🏫 Led a 10-week Scratch programming club for 2nd–6th graders at the Madison Children's Museum
+- 🌐 Portfolio: [bjrodrigu.github.io](https://bjrodrigu.github.io)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/brandonrodriguezj)
 
 ## Featured projects
