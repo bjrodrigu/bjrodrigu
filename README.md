@@ -12,7 +12,7 @@ Software engineer with a B.S. in **Computer Sciences** and **Data Science** from
 |---|---|---|
 | [**Clutter Clear website**](https://www.clutterclearllc.com) | Production site for a junk-removal business, with a static export, a PHP quote form and spam protection | Next.js, TypeScript, PHP |
 | [**Campus Rating System**](https://github.com/bjrodrigu/Project_08) | Team-built app for finding and reviewing UW study spots on a live campus map | React, Spring Boot, MySQL, Docker |
-| [**Catering Execution Generator**](https://github.com/bjrodrigu/catering-prep-sheet-generator) | Turns stacks of catering receipts into an Excel prep sheet using OCR, cutting report time by ~83% | Python, Flask, Google Cloud Vision, React |
+| [**Catering Execution Generator**](https://github.com/bjrodrigu/catering-execution-generator) | Turns stacks of catering receipts into an Excel prep sheet using OCR, cutting report time by ~83% | Python, Flask, Google Cloud Vision, React |
 | [**World Cup '22 Passing Viz**](https://bjrodriguez.shinyapps.io/world_cup22_passes/) | Interactive Shiny app comparing Argentina's passing patterns with k-means clustering ([code](https://github.com/bjrodrigu/world-cup-22-passing-viz)) | R, Shiny, ggplot2 |
 
 ## Tools I use
