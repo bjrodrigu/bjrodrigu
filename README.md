@@ -6,7 +6,7 @@
 
 </div>
 
-I like software that quietly takes a chore off someone's plate, like turning a pile of catering receipts into a prep sheet so nobody has to type it up by hand. The rest of the time I'm pulling apart sports data: who passes to whom, which set pieces actually work, why upsets happen.
+I like software that quietly takes a chore off someone's plate, like turning a pile of catering receipts into a prep sheet so nobody has to type it up by hand.
 
 ### Things I've built
 
